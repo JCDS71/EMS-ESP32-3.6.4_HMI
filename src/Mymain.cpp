@@ -18,7 +18,6 @@
 
 #include "emsesp.h"
 #include "common_Display.h"
-#include <uuid/log.h>
 
 //char *Hc1_Mode = "auto";
 
