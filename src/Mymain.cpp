@@ -32,9 +32,6 @@ void setup() {
 void loop() {
     lv_timer_handler(); // let the GUI do its work 
     delay(5);
-    //Serial.print("my time is : ");
-   //Serial.println(uuid::log::format_timestamp_ms(123456789UL, 3).c_str());
+
     application.loop();
-    //std::string msgstr = uuid::log::format_timestamp_ms(message.content_->uptime_ms, 3)
-    //uuid::log::PrintHandler::print_.print(uuid::log::format_timestamp_ms(uuid::log::Message->uptime_ms, 3));
 }
