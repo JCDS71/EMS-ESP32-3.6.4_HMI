@@ -43,8 +43,8 @@ extern HardwareSerial Serial;
 
 #include <uuid/log.h>
 
-#define SSID "Freebox-2.4G"
-#define PASS "lafreeboxajcestmagique"
+#define SSID "xxx"
+#define PASS "xxxx"
 
 #define ARDUINOJSON_ENABLE_STD_STRING 1
 #define MAX_HTTP_OUTPUT_BUFFER 512
